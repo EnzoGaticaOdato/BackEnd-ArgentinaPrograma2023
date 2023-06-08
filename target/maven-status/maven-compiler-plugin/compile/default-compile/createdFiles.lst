@@ -5,6 +5,7 @@ com\back\back\Security\Service\UsuarioService.class
 com\back\back\Security\Repository\iUsuarioRepository.class
 com\back\back\Repository\IPersonaRepository.class
 com\back\back\Security\Service\RolService.class
+com\back\back\WebConfig.class
 com\back\back\Security\Dto\LoginUsuario.class
 com\back\back\Dto\dtoExperiencia.class
 com\back\back\Security\Repository\iRolRepository.class

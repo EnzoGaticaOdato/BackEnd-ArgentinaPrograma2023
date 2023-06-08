@@ -25,6 +25,7 @@ C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Controller\CE
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Interface\IPersonaService.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Controller\PersonaController.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Security\jwt\JwtEntryPoint.java
+C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\WebConfig.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Security\jwt\JwtTokenFilter.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Security\Repository\iUsuarioRepository.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Security\Controller\AuthController.java
