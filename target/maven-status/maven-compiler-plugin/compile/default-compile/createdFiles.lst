@@ -1,0 +1,8 @@
+com\back\back\Service\ImpPersonaService.class
+com\back\back\Entity\Persona.class
+com\back\back\Security\Enums\RolNombre.class
+com\back\back\BackApplication.class
+com\back\back\Repository\IPersonaRepository.class
+com\back\back\Security\Entity\Rol.class
+com\back\back\Controller\PersonaController.class
+com\back\back\Interface\IPersonaService.class
