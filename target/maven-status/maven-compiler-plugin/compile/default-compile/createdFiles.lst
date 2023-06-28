@@ -1,3 +1,4 @@
+com\back\back\Dto\dtoHys.class
 com\back\back\Dto\dtoEducacion.class
 com\back\back\Security\Controller\AuthController.class
 com\back\back\Security\jwt\JwtProvider.class
@@ -9,6 +10,7 @@ com\back\back\WebConfig.class
 com\back\back\Security\Dto\LoginUsuario.class
 com\back\back\Dto\dtoExperiencia.class
 com\back\back\Security\Repository\iRolRepository.class
+com\back\back\Entity\hys.class
 com\back\back\Security\Entity\UsuarioPrincipal.class
 com\back\back\Security\Entity\Rol.class
 com\back\back\Security\Entity\Usuario.class
@@ -24,7 +26,9 @@ com\back\back\Service\ImpPersonaService.class
 com\back\back\Repository\RExperiencia.class
 com\back\back\Security\Enums\RolNombre.class
 com\back\back\Controller\CEducacion.class
+com\back\back\Service\Shys.class
 com\back\back\Service\SEducacion.class
+com\back\back\Controller\CHys.class
 com\back\back\Security\Controller\Mensaje.class
 com\back\back\Entity\Educacion.class
 com\back\back\Security\jwt\JwtTokenFilter.class
@@ -32,4 +36,5 @@ com\back\back\Service\SExperiencia.class
 com\back\back\Security\Service\UserDetailsImpl.class
 com\back\back\Entity\Persona.class
 com\back\back\BackApplication.class
+com\back\back\Repository\Rhys.class
 com\back\back\Controller\PersonaController.class
