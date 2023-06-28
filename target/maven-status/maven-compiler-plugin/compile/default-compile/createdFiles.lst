@@ -14,7 +14,6 @@ com\back\back\Entity\hys.class
 com\back\back\Security\Entity\UsuarioPrincipal.class
 com\back\back\Security\Entity\Rol.class
 com\back\back\Security\Entity\Usuario.class
-com\back\back\Interface\IPersonaService.class
 com\back\back\Controller\CExperiencia.class
 com\back\back\Repository\REducacion.class
 com\back\back\Security\jwt\JwtEntryPoint.class
@@ -36,5 +35,6 @@ com\back\back\Service\SExperiencia.class
 com\back\back\Security\Service\UserDetailsImpl.class
 com\back\back\Entity\Persona.class
 com\back\back\BackApplication.class
+com\back\back\Dto\dtoPersona.class
 com\back\back\Repository\Rhys.class
 com\back\back\Controller\PersonaController.class

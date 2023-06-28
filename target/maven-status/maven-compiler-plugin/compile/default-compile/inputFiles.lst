@@ -1,3 +1,4 @@
+C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Dto\dtoPersona.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Security\Service\UsuarioService.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Security\jwt\JwtProvider.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Service\SEducacion.java
@@ -26,7 +27,6 @@ C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Repository\RE
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Controller\CEducacion.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Security\Controller\Mensaje.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Controller\CExperiencia.java
-C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Interface\IPersonaService.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Controller\PersonaController.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\Security\jwt\JwtEntryPoint.java
 C:\Users\Administrator\Desktop\BackEnd\src\main\java\com\back\back\WebConfig.java
